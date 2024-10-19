@@ -22,11 +22,11 @@
         <mxCell id="L4TfTG_HE_Cz_6SOouko-5" value="&lt;b&gt;Availability Zone&lt;/b&gt;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
           <mxGeometry x="600" y="40" width="320" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="2Y4jXMCBEfJ4xLDZcFPG-1" value="Public subnet -&amp;nbsp;&lt;span style=&quot;white-space: nowrap; caret-color: rgb(22, 25, 31); color: rgb(22, 25, 31); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; background-color: rgb(241, 250, 255);&quot;&gt;mohamed-resume-app-subnet&lt;/span&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
+        <mxCell id="2Y4jXMCBEfJ4xLDZcFPG-1" value="&lt;b&gt;Public subnet&lt;/b&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
           <mxGeometry x="80" y="120" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="2Y4jXMCBEfJ4xLDZcFPG-4" value="mohamed-resume-app-ec2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2Y4jXMCBEfJ4xLDZcFPG-1" vertex="1">
-          <mxGeometry x="70" y="230" width="180" height="30" as="geometry" />
+        <mxCell id="x8ulssIdyP4FOZrkm7Mt-5" value="&lt;b&gt;EC2&lt;/b&gt; &lt;b&gt;instance&lt;/b&gt;&lt;div&gt;mohamed-reume-app-ec2&lt;/div&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" parent="2Y4jXMCBEfJ4xLDZcFPG-1" vertex="1">
+          <mxGeometry x="50" y="86" width="230" height="175" as="geometry" />
         </mxCell>
         <mxCell id="x8ulssIdyP4FOZrkm7Mt-2" value="&lt;span style=&quot;caret-color: rgb(96, 113, 117); color: rgb(96, 113, 117); text-align: left;&quot;&gt;mohamed-resume-app-vpc&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
           <mxGeometry x="800" width="150" height="30" as="geometry" />
@@ -38,19 +38,19 @@
           <mxGeometry x="840" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x8ulssIdyP4FOZrkm7Mt-6" value="mohamedcraj-resume-app (Next.js)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
-          <mxGeometry x="140" y="242.5" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x8ulssIdyP4FOZrkm7Mt-5" value="EC2 instance" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_ec2_instance_contents;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#D86613;dashed=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
-          <mxGeometry x="130" y="170" width="230" height="175" as="geometry" />
+          <mxGeometry x="140" y="280" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x8ulssIdyP4FOZrkm7Mt-8" value="system ctl" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
-          <mxGeometry x="162.5" y="302.5" width="155" height="30" as="geometry" />
+          <mxGeometry x="162.5" y="340" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x8ulssIdyP4FOZrkm7Mt-9" value="GitHub integration using ssh" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
-          <mxGeometry x="167.5" y="210" width="155" height="30" as="geometry" />
+          <mxGeometry x="167.5" y="250" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x8ulssIdyP4FOZrkm7Mt-7" value="nginx - http/https" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L4TfTG_HE_Cz_6SOouko-7" vertex="1">
-          <mxGeometry x="162.5" y="272.5" width="155" height="30" as="geometry" />
+          <mxGeometry x="162.5" y="310" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CtbZwT8K51sQD9rCroaq-2" value="&lt;span style=&quot;caret-color: rgb(36, 136, 20); color: rgb(36, 136, 20); text-align: left;&quot;&gt;mohamed-resume-app-subnet&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L4TfTG_HE_Cz_6SOouko-7">
+          <mxGeometry x="225" y="120" width="175" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
